@@ -44,7 +44,14 @@ public class PlayerHealth : MonoBehaviour
     }
     private void Die()
     {
+        // Mueve el sprite 2 unidades hacia abajo
+        Vector3 currentPos = transform.position;
+        transform.position = new Vector3(currentPos.x, currentPos.y - 1f, currentPos.z);
+
+        // Establece el cuerpo del Rigidbody2D en estático para detener cualquier movimiento
         rb.bodyType = RigidbodyType2D.Static;
+
+        // Reproduce la animación de muerte
         anim.SetTrigger("dead");
     }
 
