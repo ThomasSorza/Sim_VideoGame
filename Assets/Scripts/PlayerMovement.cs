@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     private SpriteRenderer sprite;
     private Animator anim;
 
+
     [SerializeField] private LayerMask jumpableGround;
 
     private float dirX = 0f;
@@ -20,6 +21,8 @@ public class PlayerMovement : MonoBehaviour
     public float KBCounter;
     public float KBTotalTime;
     public bool isKnockedFromRight;
+    public bool flippedLeft;
+    public bool facingRight;
 
     private enum MovementState { idle, running, jumping, falling, knockback }
 
@@ -71,17 +74,33 @@ public class PlayerMovement : MonoBehaviour
 
     if (dirX > 0f) // moving right
     {
+        facingRight = true;
+        Flip(true);
         state = MovementState.running;
-        sprite.flipX = false;
+        //sprite.flipX = false;
     }
     else if (dirX < 0f) // moving left
     {
+        facingRight = false;
+        Flip(false);
         state = MovementState.running;
-        sprite.flipX = true;
+        //sprite.flipX = true;
     }
     else // not moving (idle)
     {
         state = MovementState.idle;
+    }
+
+    void Flip (bool facingRight){
+        if(flippedLeft && facingRight){
+            transform.Rotate(0,-180,0);
+            flippedLeft = false;
+        }
+        if(!flippedLeft && !facingRight)
+        {
+            transform.Rotate(0,-180,0);
+            flippedLeft = true;
+        }
     }
 
     // We can jump whenever we are not falling or jumping
