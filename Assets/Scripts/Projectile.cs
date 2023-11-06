@@ -14,6 +14,7 @@ public class Projectile : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        speed = 14;
         projectileCount = projectileLife;
         playerMovement = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerMovement>();
         facingRight = playerMovement.facingRight;
