@@ -50,8 +50,7 @@ public class Projectile : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.gameObject.tag == "Enemy"){
-            Destroy(collision.gameObject);
-
+            collision.gameObject.GetComponent<EnemyHealth>().TakeDamage(1);
         }
         Destroy(gameObject);
     }
