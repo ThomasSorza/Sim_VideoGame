@@ -6,6 +6,7 @@ public class EnemyDamage : MonoBehaviour
 {
     public int damage =2;
     public PlayerHealth playerHealth;
+    public PlayerMovement playerMovement;
 
     void Start()
     {
@@ -16,6 +17,15 @@ public class EnemyDamage : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+            playerMovement.KBCounter = playerMovement.KBTotalTime;
+            if(collision.transform.position.x <= transform.position.x)
+            {
+                playerMovement.isKnockedFromRight = true;
+            }
+            if(collision.transform.position.x >= transform.position.x)
+            {
+                playerMovement.isKnockedFromRight = false;
+            }
             playerHealth.TakeDamage(damage);
         }
     }
