@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemyDamage : MonoBehaviour
 {
-    public int damage;
+    public int damage =2;
     public PlayerHealth playerHealth;
 
     void Start()
