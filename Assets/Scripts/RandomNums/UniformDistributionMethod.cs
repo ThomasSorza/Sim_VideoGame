@@ -146,12 +146,19 @@ public class UniformDistributionMethod : MonoBehaviour
 
     }
 
-    void FillRiValues()
+    public List<float> GetRiValues()
+    {
+        return riValues;
+    }
+
+
+    public void FillRiValues()
     {
         for (int i = 0; i < numAmount; i++)
         {
             float value = (float)random.NextDouble();
             riValues.Add((float)Math.Round(value, 5));
+            //Debug.Log("Ri: " + riValues[i]);
         }
     }
 

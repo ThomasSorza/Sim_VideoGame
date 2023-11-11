@@ -22,9 +22,13 @@ public class ProjectileLaunch : MonoBehaviour
     private float cooldownCounterNormal;
     private float cooldownCounterCritico;
 
+    private UniformDistributionMethod uniformDistributionScript;
+
+    private int indexRi = 0; 
     // Start is called before the first frame update
     void Start()
     {
+        uniformDistributionScript = GetComponent<UniformDistributionMethod>();
         shootCounter = shootTime;
         cooldownCounterNormal = 0f;
         cooldownCounterCritico = 0f;
@@ -45,8 +49,11 @@ public class ProjectileLaunch : MonoBehaviour
 
         if (Input.GetButtonDown("Fire1") && shootCounter <= 0)
         {
-            // Genera un número aleatorio entre 0 y 1
-            float randomValue = Random.Range(0f, 1f);
+            
+            List<float> riValues = uniformDistributionScript.GetRiValues();
+            float randomValue = riValues[indexRi];
+            // Hacer algo con los valores de riValues
+            
 
             // Decide si se lanza un disparo normal o crítico basado en las probabilidades
             if (randomValue < probNormal && cooldownCounterNormal <= 0)
@@ -61,6 +68,12 @@ public class ProjectileLaunch : MonoBehaviour
             }
 
             shootCounter = shootTime;
+            indexRi += 1;
+            if (indexRi >= riValues.Count)
+            {
+                uniformDistributionScript.FillRiValues();
+                indexRi = 0;
+            }
         }
 
         shootCounter -= Time.deltaTime;

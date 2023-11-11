@@ -39,7 +39,7 @@ public class PlayerHealth : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Trap"))
         {
-            TakeDamage(10); //traps do 10 damage means instant death
+            TakeDamage(1); //traps do 10 damage means instant death
         }
     }
     private void Die()
