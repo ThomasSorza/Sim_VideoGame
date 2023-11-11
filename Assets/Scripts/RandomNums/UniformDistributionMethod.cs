@@ -11,6 +11,8 @@ public class UniformDistributionMethod : MonoBehaviour
     public VarianceTest varianceTestScript;  // Agregado el script VarianceTest
     public PokerTest pokerTest;
 
+    public ChiTest chiTest;
+
     public KsTest ksTest; //script de KsTest
     public int passed = 0; 
 
@@ -38,6 +40,8 @@ public class UniformDistributionMethod : MonoBehaviour
 
         pokerTest = GetComponent<PokerTest>();
 
+        chiTest = GetComponent<ChiTest>();
+
         //realiza la prueba de medias
         if (averageTestScript != null)
         {
@@ -57,11 +61,11 @@ public class UniformDistributionMethod : MonoBehaviour
             if (testPassed)
             {
                 Debug.Log("La prueba de promedio ha sido superada.");
+                passed +=1;
             }
             else
             {
                 Debug.Log("La prueba de promedio no ha sido superada.");
-                passed +=1;
             }
         }
 
@@ -86,11 +90,11 @@ public class UniformDistributionMethod : MonoBehaviour
             if (testPassed)
             {
                 Debug.Log("La prueba de varianza ha sido superada.");
+                passed +=1;
             }
             else
             {
                 Debug.Log("La prueba de varianza no ha sido superada.");
-                passed +=1;
             }
             
         }
@@ -144,6 +148,33 @@ public class UniformDistributionMethod : MonoBehaviour
             }
         }
 
+        if(chiTest != null){
+            List<double> doubleList = new List<double>(riValues.Count);
+            foreach (float value in riValues)
+            {
+                doubleList.Add((double)value);
+            }
+            
+            chiTest.riValues = doubleList;
+            bool isPassed = pokerTest.CheckPoker();
+            if (isPassed)
+            {
+                Debug.Log("La prueba chi ha sido superada.");
+                passed +=1;
+            }
+            else
+            {
+                Debug.Log("La prueba chi no ha sido superada.");
+                
+            }
+        }
+
+        while (passed != 0)
+        {
+            FillRiValues();
+        }
+
+
     }
 
     public List<float> GetRiValues()
@@ -154,11 +185,11 @@ public class UniformDistributionMethod : MonoBehaviour
 
     public void FillRiValues()
     {
+        passed = 0;
         for (int i = 0; i < numAmount; i++)
         {
             float value = (float)random.NextDouble();
             riValues.Add((float)Math.Round(value, 5));
-            //Debug.Log("Ri: " + riValues[i]);
         }
     }
 

@@ -34,7 +34,7 @@ public class PokerTest : MonoBehaviour
         CalculateEi();
         CalculateEid();
         CalculateTotalSum();
-        passed = totalSum < chiReverse;
+        passed = totalSum <= chiReverse;
         return passed;
     }
 
@@ -61,6 +61,7 @@ public class PokerTest : MonoBehaviour
         if(eid != null){
             totalSum = eid.Sum();
         }
+        passed = true;
     }
 
     private void CalculateOi()

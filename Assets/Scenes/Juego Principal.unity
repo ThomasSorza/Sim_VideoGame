@@ -17742,6 +17742,7 @@ GameObject:
   - component: {fileID: 802333221}
   - component: {fileID: 802333220}
   - component: {fileID: 802333219}
+  - component: {fileID: 802333224}
   - component: {fileID: 802333218}
   m_Layer: 0
   m_Name: Player
@@ -18073,7 +18074,35 @@ MonoBehaviour:
   averageTestScript: {fileID: 0}
   varianceTestScript: {fileID: 0}
   pokerTest: {fileID: 0}
+  chiTest: {fileID: 0}
   ksTest: {fileID: 0}
+  passed: 0
+--- !u!114 &802333224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 802333208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a58e38eca20d5d344a2a8d88c98e8375, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  riValues: []
+  niValues: []
+  a: 8
+  b: 10
+  niMin: 0
+  niMax: 0
+  numAmount: 0
+  intervalsAmount: 8
+  intervalsValues: []
+  frequencyObtained: 
+  expectedFrequency: []
+  chiSquaredValues: []
+  chiReverse: 0
+  sumChi2: 0
   passed: 0
 --- !u!4 &814739658 stripped
 Transform:
