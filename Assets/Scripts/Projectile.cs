@@ -10,6 +10,8 @@ public class Projectile : MonoBehaviour
     public float projectileCount;
      public PlayerMovement playerMovement;
     public bool facingRight;
+    public int criticalDamage = 4;
+    private bool isCritical = false; 
 
     // Start is called before the first frame update
     void Start()
@@ -46,12 +48,25 @@ public class Projectile : MonoBehaviour
         }
        
     }
+    public void Initialize(bool isCritical)
+    {
+        this.isCritical = isCritical;
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.tag == "Enemy"){
-            collision.gameObject.GetComponent<EnemyHealth>().TakeDamage(1);
+         if (collision.gameObject.tag == "Enemy")
+        {
+            // Aplica el daño correspondiente (normal o crítico)
+            if (isCritical)
+            {
+                collision.gameObject.GetComponent<EnemyHealth>().TakeDamage(criticalDamage);
+            }
+            else
+            {
+                collision.gameObject.GetComponent<EnemyHealth>().TakeDamage(1);
+            }
+            Destroy(gameObject);
         }
-        Destroy(gameObject);
     }
 }

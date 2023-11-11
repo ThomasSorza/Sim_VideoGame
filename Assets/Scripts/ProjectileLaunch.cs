@@ -57,13 +57,13 @@ public class ProjectileLaunch : MonoBehaviour
 
             // Decide si se lanza un disparo normal o crítico basado en las probabilidades
             if (randomValue < probNormal && cooldownCounterNormal <= 0)
-            {
-                Instantiate(projectilePrefab, launchPoint.position, Quaternion.identity);
+            {   
+                LaunchProjectile(projectilePrefab);
                 cooldownCounterNormal = cooldownNormal;
             }
             else if (randomValue >= probNormal && cooldownCounterCritico <= 0)
             {
-                Instantiate(criticalPrefab, launchPoint.position, Quaternion.identity);
+                LaunchProjectile(criticalPrefab, true);
                 cooldownCounterCritico = cooldownCritico;
             }
 
@@ -77,5 +77,15 @@ public class ProjectileLaunch : MonoBehaviour
         }
 
         shootCounter -= Time.deltaTime;
+    }
+
+    private void LaunchProjectile(GameObject projectilePrefab, bool isCritical = false)
+    {
+        GameObject projectile = Instantiate(projectilePrefab, launchPoint.position, Quaternion.identity);
+        Projectile projectileScript = projectile.GetComponent<Projectile>();
+        if (projectileScript != null)
+        {
+            projectileScript.Initialize(isCritical);
+        }
     }
 }
