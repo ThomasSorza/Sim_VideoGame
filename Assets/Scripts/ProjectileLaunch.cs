@@ -21,6 +21,7 @@ public class ProjectileLaunch : MonoBehaviour
 
     private float cooldownCounterNormal;
     private float cooldownCounterCritico;
+    private Animator anim; // para animaciones
 
     private UniformDistributionMethod uniformDistributionScript;
 
@@ -32,6 +33,7 @@ public class ProjectileLaunch : MonoBehaviour
         shootCounter = shootTime;
         cooldownCounterNormal = 0f;
         cooldownCounterCritico = 0f;
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -58,11 +60,13 @@ public class ProjectileLaunch : MonoBehaviour
             // Decide si se lanza un disparo normal o crítico basado en las probabilidades
             if (randomValue < probNormal && cooldownCounterNormal <= 0)
             {   
+                anim.SetTrigger("shoot"); // se reproduce la animacion de disparar
                 LaunchProjectile(projectilePrefab);
                 cooldownCounterNormal = cooldownNormal;
             }
             else if (randomValue >= probNormal && cooldownCounterCritico <= 0)
             {
+                anim.SetTrigger("shoot"); // se reproduce la animacion de disparar
                 LaunchProjectile(criticalPrefab, true);
                 cooldownCounterCritico = cooldownCritico;
             }

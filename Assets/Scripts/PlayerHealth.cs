@@ -33,7 +33,7 @@ public class PlayerHealth : MonoBehaviour
 
     private void Hurt()
     {
-        anim.SetTrigger("hurt");
+        anim.SetTrigger("hurt"); // se reproduce la animacion de recibir daño
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
