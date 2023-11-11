@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 78faa2573a92f3043af08ca110fb2b70
+=======
 guid: 634be5b6f00a9fc40836976d870a1fbd
+>>>>>>> thomas
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
