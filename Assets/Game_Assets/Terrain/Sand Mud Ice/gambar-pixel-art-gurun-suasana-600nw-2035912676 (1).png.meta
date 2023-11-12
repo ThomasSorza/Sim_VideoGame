@@ -1,0 +1,5420 @@
+fileFormatVersion: 2
+guid: d1d34c5833ba6a44db322d8177e7f733
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42735cfce3f192469f546ac8284387c
+      internalID: 1657258374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117a1a8267f35834ab3e21be19271c78
+      internalID: 2121271552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12193f7a8f4a705429deb0c4c3cb0d45
+      internalID: -1831016101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a749f20a4306e4a933c93e352a9cc0
+      internalID: -1878855102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cf454b04db83d4a807a94ac5891451
+      internalID: -2110030410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310a7d3ab7bdf22479f4d6aa7886983c
+      internalID: -1389380472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9ac1787c0b9bd4c84cfac3b279ef4e
+      internalID: -1581257939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43101f35add801a43a98d3df59d78a3e
+      internalID: 436715028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f3d6dec960a1943a32b1f07644fdb0
+      internalID: 2104285588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca763630f1991f0419c86d5c64cf9fe9
+      internalID: 281978136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf064e2db5072146b0209e6314dc98c
+      internalID: -1607767496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa7615d3e7c78a44ae77002442005ce
+      internalID: -662488753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52055bcc7770e5940b6bfe394cb0b76f
+      internalID: -574953454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd8bc23a8f29cf44b443cd01649a40f
+      internalID: -929497170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4db057b570e10e4ab83d975e646a912
+      internalID: 1100613399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f7bf16a62c337469abadcf4f0af125
+      internalID: 793287138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bece76b74815984193ff18ba4205085
+      internalID: -545415323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f488fa44d67bfd40b97d082a75fc13d
+      internalID: 1325533358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d5f78e7c224db43963654d51b6cfda
+      internalID: 1099279590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82bef392a4f2fa4493f47d5d632d47e
+      internalID: -1451219737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2a63583cb42a043b8a291ddc1bfa77
+      internalID: 750958082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9508f729984769488ce0c793feb4638
+      internalID: 1194937661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b26f34643005604aa692ef4e4aa9682
+      internalID: -1377823673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0dcf3cadfe7c542a22ed0ccb35658d
+      internalID: -990839020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c1d26be47d8464b92eceb234e5707b
+      internalID: 2066052069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a67a7f5e08677439321933e4f068ae
+      internalID: 1485711423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3818cd21622f0ad428662ce8e3c888e4
+      internalID: 101618813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5931899662793c4bb7eb789ca7ecdcb
+      internalID: -1234319223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b1ddf5fc9c6a44b799345f11a6b6c
+      internalID: -6998625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e348c5c70f33746b138d6bfd7d659c
+      internalID: -1928865224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9904ebee0593d6341801ea76ab95d0b0
+      internalID: -1522932374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0b99847484e884fae8d8a0825d2b0f
+      internalID: -1255252689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6472ebb6e592d0c4388c4fb02b7aeffd
+      internalID: -1532597563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d54979ec2ee1f4dadf2d8c9971d604
+      internalID: 495131181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1744ed740de104abedee2c99315600
+      internalID: 1247725931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e732c05833f81a42bd826e2b814fa18
+      internalID: -606529676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4d6132849bc244db3a0f29bba72e4d
+      internalID: 806769711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22257e35778f5a54b89116ac64bc1369
+      internalID: -1379308868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cc0b882e68e2a459e8fafe1ebc4804
+      internalID: 1055199355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d1450f070724346b73004b8313892e
+      internalID: 1788778467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b0b71577df6344f9e0c1e00aa11b06
+      internalID: 1469326686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36266e204556dbe40ad7a485c8d61a55
+      internalID: 1250439079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a736a3de90cdc047b65a4dec22dceec
+      internalID: 1965182777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44126d0b26286b14ca38f64537ed6a2c
+      internalID: 1557605241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618a2e617a3898549859fd87794bd00a
+      internalID: 1756504555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4fa871dfb092045977ff14031430e7
+      internalID: 2083094138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e98bb32649647e41a53694d22cd6395
+      internalID: 2084437012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d78fe8274b4a2446be93004e1768ce6
+      internalID: 1818202704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c99c0a44e41f642a6ea267ca424116
+      internalID: 778784421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a7a7ddd120a8543ba87c88d178bb4b
+      internalID: -2118089995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a957adde80e19f4bb23dd52e21c6036
+      internalID: -1584606612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f9799f5992d4e498c487ace4f18adc
+      internalID: 2094599778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c544a0c26776f654f83c186e013aa00a
+      internalID: -2042183575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb4538ef7c918e4ab41a1241262dd8a
+      internalID: 797571908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1a1233702b7184b97907980267eb71
+      internalID: -457491052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2975aa0e462671244aa9224f434ab24b
+      internalID: 69349854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df98abe424552b844a2c4bf19f967b1a
+      internalID: 1412922438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ae7f11e27d81f45969517cf4e80776
+      internalID: 1198236930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1acc9731d4d5d42ab139f2b0fc31a3
+      internalID: -170086929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b944ef91cdddd645a6e263e8f60cf4a
+      internalID: 1782061722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e64342d59c2a4db4d53179392f189
+      internalID: 1498374746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ccdd46ec70f634cadc2f4d86b754e1
+      internalID: 1344632118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_62
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad60ad1b0a39d6a4b8e3436eeedd0ed1
+      internalID: 551978211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_63
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a30b9b23ce95964ba185cec94ab40d4
+      internalID: 926750515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_64
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a743fdd086cf6994ba8539627c1e8632
+      internalID: 2062607778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_65
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0411f9cadad478742a49e5147aeb34e1
+      internalID: 1371201544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e5379b49b5b834eb38ae0065269bd1
+      internalID: 757595261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08505b4d53a59c84b9c2626927272f22
+      internalID: 927459408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_68
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fac82676b138c488099a1d8800f939
+      internalID: -1264886724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_69
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0462084f4cd19b4682811c04bfd316a
+      internalID: 619122377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_70
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723d8030f5838c548b12d4df5b0fdbb1
+      internalID: -1556065591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_71
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6216be9e71a4f7145aa2fea063a74074
+      internalID: 1577814454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_72
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438aa4053673e40459c54da8dbd042e0
+      internalID: 1438558475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_73
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e275e6a549c8c4ea5108571237a1eb
+      internalID: -146813972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_74
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f7e4c1e60ea2a4eb2c9066e8ae717d
+      internalID: 611403738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_75
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec966b8e05cf6f4ba80355aacff2cef
+      internalID: 1188796398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7712fac482a66084a93c65772af7e593
+      internalID: 1938203547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_77
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b55963233dfef948a6be2caa11275a4
+      internalID: -819390358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_78
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096f8314e462f494a976f47eed77a1ec
+      internalID: 2133351090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_79
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1b13861e5638d438c9a2ea1c8b6065
+      internalID: -923929521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897afe4eec5cb3443bb3bf98bd1130e8
+      internalID: -1267428174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_81
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fed83138d760ed43bcd794d143ea741
+      internalID: -27355985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_82
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ac6ed0b521d9245ba9955c77ae94e0
+      internalID: 894753169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_83
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7653d289617ad047a4e2b39d88c49c3
+      internalID: -1461165272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_84
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce51c84104dbf2d438ad9a5974cbf6a5
+      internalID: -207938812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_85
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff75a120ca527749a35110d59fbb44f
+      internalID: -862753357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_86
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d7ac30d53010e49b9eb863fc78c1d8
+      internalID: -277071734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_87
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e387e5df70ea44fa502eb4a0aac805
+      internalID: 57626311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_88
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec9f089ddf25d741acb34cda4e11ab1
+      internalID: 1524321998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_89
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa97ac8ad80f69d489a0d0ee270105ec
+      internalID: -1032211251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abf3447845ccbc47a013e07dda22970
+      internalID: -1557530423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_91
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887d5cea7fe038a43ac5f4c1f09b9fb7
+      internalID: -1933093121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_92
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3faa65d8415504b9c3bc3fd93511d8
+      internalID: -755476042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_93
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dba73a9409825478ba9cdb173bfb80
+      internalID: -607156608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_94
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcc969c163e9a141a5217feb9b6404b
+      internalID: 1564237064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_95
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d0e7c2704b0b64ba7de76fe27570fa
+      internalID: 1446128022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_96
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ae9b50b41ea7d43ad48f7b0876b2ab
+      internalID: 1558176921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_97
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d849b87cade3f9b4daff887a5bacd25b
+      internalID: -1791998457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_98
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c308347afdb6c8842b6762a13fe03b72
+      internalID: -155407438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_99
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245588991d3b7254ea00dfb80b362a82
+      internalID: -1771658851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afecfbc3b1f94624b922fa9e2a637c63
+      internalID: -947598188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_101
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc723c3068ffa4dac5781fd7a4325a
+      internalID: -848693507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_102
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d44eb957d09e8d4ca975a033e1a5c63
+      internalID: -1131071086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_103
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4663673389e7579489cbd5f53e9ca0bc
+      internalID: 1199791447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_104
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d522ea359edecf47a5c003c2483d9d1
+      internalID: -1023927819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_105
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b77d87242ef3c4faaec0de0f108202
+      internalID: 531627914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_106
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5420b96af711d4dba52cd6e7138a28
+      internalID: -1175685948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_107
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9386b28efab578468dbd05f22dfc9a1
+      internalID: -890006946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecf95c0f6d642a479feac3a04b33e73
+      internalID: 1386551612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_109
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9107b015279ff3245adbb88ce731bd09
+      internalID: 1484554984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_110
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928278135b375c943b8651707fa0d08d
+      internalID: 1484209280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_111
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d47d90bc481ee4bb5ad4bb8b1fbed0
+      internalID: -761848592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_112
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9736968d4311d2147b450dca01037502
+      internalID: -160875662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_113
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943216aafcbe3c540b770a86032260cb
+      internalID: -950579670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_114
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb662ae439940334485615fc0c3cfdc4
+      internalID: -2112106261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_115
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b74f71cd4f2d9347ad81091ccd77152
+      internalID: -1031758734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_116
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad41bec8441136a4fae82a01ea95772b
+      internalID: 470258195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_117
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed3df3aacd79b14f8facd545669266f
+      internalID: -1956357897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_118
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6940a52afd83bc46ab7348a40ac31cc
+      internalID: -1778665342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_119
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 184
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccb54856ba86cc4a8c4269fa0573fe4
+      internalID: 842677109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfead3257dd6e6459986732021443a8
+      internalID: 819998184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_121
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c41d74dc0e754a47b441d94fe8b719e
+      internalID: -1976228155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_122
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d404690fdf2a09458d6f20f18057208
+      internalID: -36699801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_123
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61488a63347882c4ebb97807740a0372
+      internalID: 1756671772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_124
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc893ffd7f577894caaff66f61ba3b32
+      internalID: 439053361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_125
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8e975f154020547966e2b51f02e6a5
+      internalID: 674701340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_126
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a746b3be036442243adb3fce4d9d29dd
+      internalID: -1887515599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_127
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bf177f55f2a824e8ca2097b318d948
+      internalID: -1746502113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_128
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb167530a7292a0419e8fe0428c3f91f
+      internalID: 1673550354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_129
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89beaf0da76a5d943a56f3115d1b667c
+      internalID: 1309967728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_130
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f3fc538860054aa61e75de0fbb034
+      internalID: 758533594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_131
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1df39a8afa3fe4abcedea2634d8fc8
+      internalID: -1898980139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_132
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9015c0c30efae4bab3558b8756771a
+      internalID: 1609466309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_133
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db128c5199f8244e9329224c35637f6
+      internalID: 1954071249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_134
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae5b06569c92ca4898f82371f5de618
+      internalID: -1417102654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_135
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f14b3b83520284e80a4ecd1fa39bbc
+      internalID: -433185450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_136
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0946543aebaab44588686546d8beb45
+      internalID: -538984129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_137
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35df2928f8a89c44097e647d792b29f7
+      internalID: -194256065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_138
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4650b7c7387a0b34ba76a866940072ad
+      internalID: -1073759031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_139
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cdfda85cfe68a48a66eeaafcec2de7
+      internalID: 431037750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f57d7445b4f574b8dea5c22ec11621
+      internalID: 715218525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_141
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb70645f059850c45b2956da9762e69a
+      internalID: 220172604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_142
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b491e1dfe3543548944de28baaa16f6
+      internalID: 644725497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_143
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c32d9714dfe81b428c24e5da5a19bbd
+      internalID: -940243970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_144
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f410a49cb02f2a48b54e3f741354004
+      internalID: 616780809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_145
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd42cf10442211b48ac0b979491f7d3a
+      internalID: -1441497889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_146
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006bbc6cea0ddb34292060f4485f42c4
+      internalID: -1626905616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_147
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5adca7d1082fce46ab4b948812d1fda
+      internalID: 59238526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_148
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb77cbe2c2ebf964c9a4ac66bbc3f3c5
+      internalID: 1770553655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_149
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9769b4e47a51861438bb81d605a215a3
+      internalID: -247190763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_150
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c9ce177b5a5db4d9eae70595e6ba4f
+      internalID: -1347148059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_151
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39ee7e1d184e0c4e946c6173d6b89fd
+      internalID: -294572933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_152
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b451b95ca1bd60488256293eae8193e
+      internalID: -1138832306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_153
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b62a85f301cb4439f8fc25f57e3b40
+      internalID: 1919866554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_154
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979a3f57072a8c34982181b94a25d148
+      internalID: 1379192412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_155
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e55a8730ce1e9f4195ab00f730b82c8
+      internalID: 483067952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_156
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181f35c1eba5f364c88f192c3a1c9977
+      internalID: 1928345724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_157
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab9971aff580a244bd2fc8129e790db
+      internalID: 2002295622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_158
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3ef14b15ba7664d916a8f87e717fdc
+      internalID: 40859200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_159
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 124
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a8475332a3dbf49b1ce4017b0d001c
+      internalID: -2097164385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f182825772ce048be0def05002a551
+      internalID: -609739696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_161
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6a918d8479d7d47861c90289178e63
+      internalID: -62636887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_162
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26882ff38f81b844947795a9b01a826
+      internalID: -23379134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_163
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43858c407b663e24b940c652d4e8e42d
+      internalID: 273086129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_164
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f692e0d454973459eb5c60b596ce1d
+      internalID: 2146599923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_165
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dd911a3a0e875408531a899999d018
+      internalID: 2103973497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_166
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e36fe800847a4448f8b01b3ec50ad0
+      internalID: 1511657213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_167
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540bf56297cd8a54dabaab86dca36801
+      internalID: -970095492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_168
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a99a78f33b31f45b0bcf233dc7945c
+      internalID: -1852030962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_169
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2eac8ba74b12b4d8aaafc4b5a4e71b
+      internalID: -601640408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_170
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9a35d3e8c7cd840a5cbb0f629d2a93
+      internalID: -63223157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_171
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaff5cf49ff93640add3bf943cc815b
+      internalID: -1666561353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_172
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b9a0f02c8c4c14d840dbab545f8db8
+      internalID: 974025319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_173
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235170a7b986d4442ae386a0ec1b7428
+      internalID: 843581629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_174
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbabd18160148647a5971be40d90329
+      internalID: 142143603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_175
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda6601b850207c4e927add145239e53
+      internalID: -1851081719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_176
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c373ec0f723d7ca4e91ad42652fb3262
+      internalID: 1731581144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_177
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecdd593844786248a3b19313c2d1f4b
+      internalID: -1313599312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_178
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3fe0745bb86af41bdd19c4df090703
+      internalID: 2106385289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_179
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3506c597f5c3e034d93de6afaf82944d
+      internalID: 1531603755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff924f2e65b0e7147afdbb9f35846932
+      internalID: -948029859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_181
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7466d977c9582154a8431b696b3da3ce
+      internalID: 1111207339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_182
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676f54a828723f242b12f7d20a8dea24
+      internalID: 25853766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_183
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a78b823e6e4ca442be44e8c8388e760
+      internalID: 156093379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_184
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b52f2b133dec148971c006dbd44691
+      internalID: 1500589992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_185
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd771e60a39013d4298b3cc4d398d011
+      internalID: -924418138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_186
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245b163953ef25d429781c4c1249ad74
+      internalID: -1549175716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_187
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02293c2429cacae4299ceaae01295405
+      internalID: 53497896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_188
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6dfbdb0fea7024eb56fe0885df5ae6
+      internalID: 689457481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_189
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf269da74e44f842a2524a0e1361b8c
+      internalID: -687677482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_190
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853f0dee73ced5d46abd691d42ce9fab
+      internalID: 174888773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_191
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98782395a5954054a819d7092d56039b
+      internalID: 1917347847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_192
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcfb2a0f06c2d54a91e7f5afa2c82c3
+      internalID: 1010364598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_193
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495cdde58e6f14a459899ad1ecbe812b
+      internalID: -424843365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_194
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c941e9c3030c5bc448e96aae4fd93e79
+      internalID: -704339588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_195
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d71f842b316684193f7421229dc887
+      internalID: 1824961217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_196
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51695b81b1ceedb469920def741d5dc4
+      internalID: -698700861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_197
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2656d1713e6864c8e5c0c50d37c6c3
+      internalID: -1551038740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_198
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c186f71d51a4f214798874935fbce86a
+      internalID: 1738088063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_199
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8152b3a12246c45b4c1f464f896556
+      internalID: 1472000028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80524d57a5ece0a49bb95cdb1538e70b
+      internalID: 340103494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_201
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2d1fce14117184785f4d363845cbaa
+      internalID: 1207841145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_202
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfa41a6fdbea864788d257ec08d2cb9
+      internalID: 1245514833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_203
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ee147376306314ab2124e4b1f14d18
+      internalID: -621552218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_204
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff3dfa2ae41c0d4594ed80a668b6962
+      internalID: -622335173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_205
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db904d4d47c640418cee3b100c4a748
+      internalID: 1071948912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_206
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cb8f6f9d0980046855fe405c49bcf9
+      internalID: -1520310217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_207
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b452c1962bcb629428ca7361bf0a6e4e
+      internalID: 1118154852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_208
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01237b201ec451419d8111151609a9a
+      internalID: -1116414618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_209
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6065f503e6d25248ab96e5b6b8ca567
+      internalID: -110310861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_210
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524822ed8527f394fabccea6df15f561
+      internalID: -1440577345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_211
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d970e0d4132b5c444b09e5e7402be3db
+      internalID: 1759144040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_212
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68d5405ff711504893e08952c2d678e
+      internalID: -1041822100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_213
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f906cb4cef53a4bba9af4e4f7c2620
+      internalID: -1315408949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_214
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8284fb64daeaf7f4299fba3cb66a0cd8
+      internalID: 1894571580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_215
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658c0c6cc61a1f848a013e3452e2bed3
+      internalID: 30635935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_216
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2b6df3d9808f44bac8237dccf66b56
+      internalID: 1753125462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_217
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76736dc67898a2c468022679a01ff354
+      internalID: 2130918152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_218
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50725f21657621445a03bcb1834e3ee7
+      internalID: -580141298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_219
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee61f123a8b66d349b3ef3dba5283086
+      internalID: -51104885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08ef67542008614cb3f02e23867f5aa
+      internalID: 393437528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_221
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6081baabae01384c9aed514e3f62816
+      internalID: -1800816213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_222
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420d9d34d5f351244b5a2453550ad56d
+      internalID: 1448099864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_223
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c3ceee815d8de44a57df6081e2160d
+      internalID: -2050449281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_224
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beabe1379f05c7418b61ed8a581d075
+      internalID: -1157029033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_225
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5efb99e5679964d93ce3a02f8cdfec
+      internalID: -1431437252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_226
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1170a6849ba794f9c661cfe3de5fbb
+      internalID: -855536933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_227
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59a37d6c0242da459a9562cab90359c
+      internalID: 1067135441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_228
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fae2428178f51459b9766173eba860
+      internalID: 2081224642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_229
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65894d5a4ee36d479a52c35c46e1c3d
+      internalID: 2147108831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_230
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd575c9bbf7e9943ab0860f558ae377
+      internalID: -2125976109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_231
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9686dea83593f4d81944de6abfc3ae
+      internalID: -1943173262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_232
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d823fecdfb470534484810ce381499da
+      internalID: 1530047825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_233
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831e52d8302c38a4a8ad4f9cbd9df511
+      internalID: 333531978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_234
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e878b5ca5e380004c82deb8d52e59c54
+      internalID: 2076596442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_235
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c66672ba00b5e44f9dcd90a52690b3a
+      internalID: 2036668287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_236
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36d3896c259fa74cadc3e4a664a963f
+      internalID: -1475733116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_237
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21801b69f301ff74cac4c71add0f588e
+      internalID: -1792196220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_238
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa04d657dc0840944b113173a229c52e
+      internalID: 1092082177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_239
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df284a5c58c00a243ba7558acaa0fab1
+      internalID: -248243905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_0: 1657258374
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_1: 2121271552
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_10: -1607767496
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_100: -947598188
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_101: -848693507
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_102: -1131071086
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_103: 1199791447
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_104: -1023927819
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_105: 531627914
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_106: -1175685948
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_107: -890006946
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_108: 1386551612
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_109: 1484554984
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_11: -662488753
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_110: 1484209280
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_111: -761848592
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_112: -160875662
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_113: -950579670
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_114: -2112106261
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_115: -1031758734
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_116: 470258195
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_117: -1956357897
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_118: -1778665342
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_119: 842677109
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_12: -574953454
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_120: 819998184
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_121: -1976228155
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_122: -36699801
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_123: 1756671772
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_124: 439053361
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_125: 674701340
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_126: -1887515599
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_127: -1746502113
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_128: 1673550354
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_129: 1309967728
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_13: -929497170
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_130: 758533594
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_131: -1898980139
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_132: 1609466309
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_133: 1954071249
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_134: -1417102654
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_135: -433185450
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_136: -538984129
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_137: -194256065
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_138: -1073759031
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_139: 431037750
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_14: 1100613399
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_140: 715218525
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_141: 220172604
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_142: 644725497
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_143: -940243970
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_144: 616780809
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_145: -1441497889
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_146: -1626905616
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_147: 59238526
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_148: 1770553655
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_149: -247190763
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_15: 793287138
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_150: -1347148059
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_151: -294572933
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_152: -1138832306
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_153: 1919866554
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_154: 1379192412
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_155: 483067952
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_156: 1928345724
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_157: 2002295622
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_158: 40859200
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_159: -2097164385
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_16: -545415323
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_160: -609739696
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_161: -62636887
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_162: -23379134
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_163: 273086129
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_164: 2146599923
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_165: 2103973497
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_166: 1511657213
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_167: -970095492
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_168: -1852030962
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_169: -601640408
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_17: 1325533358
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_170: -63223157
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_171: -1666561353
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_172: 974025319
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_173: 843581629
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_174: 142143603
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_175: -1851081719
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_176: 1731581144
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_177: -1313599312
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_178: 2106385289
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_179: 1531603755
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_18: 1099279590
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_180: -948029859
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_181: 1111207339
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_182: 25853766
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_183: 156093379
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_184: 1500589992
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_185: -924418138
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_186: -1549175716
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_187: 53497896
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_188: 689457481
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_189: -687677482
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_19: -1451219737
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_190: 174888773
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_191: 1917347847
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_192: 1010364598
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_193: -424843365
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_194: -704339588
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_195: 1824961217
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_196: -698700861
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_197: -1551038740
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_198: 1738088063
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_199: 1472000028
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_2: -1831016101
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_20: 750958082
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_200: 340103494
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_201: 1207841145
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_202: 1245514833
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_203: -621552218
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_204: -622335173
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_205: 1071948912
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_206: -1520310217
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_207: 1118154852
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_208: -1116414618
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_209: -110310861
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_21: 1194937661
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_210: -1440577345
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_211: 1759144040
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_212: -1041822100
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_213: -1315408949
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_214: 1894571580
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_215: 30635935
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_216: 1753125462
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_217: 2130918152
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_218: -580141298
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_219: -51104885
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_22: -1377823673
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_220: 393437528
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_221: -1800816213
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_222: 1448099864
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_223: -2050449281
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_224: -1157029033
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_225: -1431437252
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_226: -855536933
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_227: 1067135441
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_228: 2081224642
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_229: 2147108831
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_23: -990839020
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_230: -2125976109
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_231: -1943173262
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_232: 1530047825
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_233: 333531978
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_234: 2076596442
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_235: 2036668287
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_236: -1475733116
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_237: -1792196220
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_238: 1092082177
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_239: -248243905
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_24: 2066052069
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_25: 1485711423
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_26: 101618813
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_27: -1234319223
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_28: -6998625
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_29: -1928865224
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_3: -1878855102
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_30: -1522932374
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_31: -1255252689
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_32: -1532597563
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_33: 495131181
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_34: 1247725931
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_35: -606529676
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_36: 806769711
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_37: -1379308868
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_38: 1055199355
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_39: 1788778467
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_4: -2110030410
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_40: 1469326686
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_41: 1250439079
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_42: 1965182777
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_43: 1557605241
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_44: 1756504555
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_45: 2083094138
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_46: 2084437012
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_47: 1818202704
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_48: 778784421
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_49: -2118089995
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_5: -1389380472
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_50: -1584606612
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_51: 2094599778
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_52: -2042183575
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_53: 797571908
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_54: -457491052
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_55: 69349854
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_56: 1412922438
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_57: 1198236930
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_58: -170086929
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_59: 1782061722
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_6: -1581257939
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_60: 1498374746
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_61: 1344632118
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_62: 551978211
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_63: 926750515
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_64: 2062607778
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_65: 1371201544
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_66: 757595261
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_67: 927459408
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_68: -1264886724
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_69: 619122377
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_7: 436715028
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_70: -1556065591
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_71: 1577814454
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_72: 1438558475
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_73: -146813972
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_74: 611403738
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_75: 1188796398
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_76: 1938203547
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_77: -819390358
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_78: 2133351090
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_79: -923929521
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_8: 2104285588
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_80: -1267428174
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_81: -27355985
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_82: 894753169
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_83: -1461165272
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_84: -207938812
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_85: -862753357
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_86: -277071734
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_87: 57626311
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_88: 1524321998
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_89: -1032211251
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_9: 281978136
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_90: -1557530423
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_91: -1933093121
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_92: -755476042
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_93: -607156608
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_94: 1564237064
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_95: 1446128022
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_96: 1558176921
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_97: -1791998457
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_98: -155407438
+      gambar-pixel-art-gurun-suasana-600nw-2035912676 (1)_99: -1771658851
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

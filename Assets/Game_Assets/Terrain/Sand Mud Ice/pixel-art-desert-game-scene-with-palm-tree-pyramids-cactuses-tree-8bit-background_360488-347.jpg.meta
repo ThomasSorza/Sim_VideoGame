@@ -1,0 +1,1812 @@
+fileFormatVersion: 2
+guid: e0974c6a6f13dd64fbef65690f1b04ee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec83457f171138489f5c01df33064fd
+      internalID: -1908071453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 603
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5a2f97b420f4449a308a3e9eed0ea3
+      internalID: 1531362138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 603
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f907986f0e25bed49bc7c3ceeb6494e3
+      internalID: -1435396696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 603
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1eab88d70217b4ca3e8169dda0efe2
+      internalID: -1813833166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b08e57c487226c4091d104355035003
+      internalID: -766440645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 570
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b23021cd7abeb439c80398e1c5ca63
+      internalID: -697055572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 570
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f74bdab6f928c94d963ea355d5333f0
+      internalID: 675968375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 570
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c3eadf6f59c2e4cbffb31fcc542d44
+      internalID: 1209881376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7ba110801602944ba73e3542fb111f
+      internalID: 1625896392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 537
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496fa6c9dccd77c45936da8f7da7c70b
+      internalID: -2023233033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 537
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dbaf4c95b52f745ae32d454630bea0
+      internalID: -615862944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 537
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9bc03a728c0b4db2b19f93b843942
+      internalID: -744788833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36ad58586bd70b4ca25c70873c63c1e
+      internalID: -464942998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 504
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc95b02e775087b478c8e376e19878ae
+      internalID: 378845462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 504
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3783e93f46e553b4f9ed1ee4a344bf46
+      internalID: 555089874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 504
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2e35e0ed2ce794d9a2da8d94c55d57
+      internalID: -736718768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4d780c9aa40d64a838709a7ab19b6d
+      internalID: -771101390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 471
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eadde0d1a00be14fb6b8a08cfc29fb5
+      internalID: -1862451786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 471
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab3ea48e7d664c44b6dbc49e169127a
+      internalID: 1103408220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 471
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98325229ae3ba54ebdd679ce171b846
+      internalID: -515028408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906ce690821cfd2419855cdc36767cf7
+      internalID: 1487522155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 438
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1977dcf375507b44b9ee7b0871b4117e
+      internalID: -448213934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 438
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a148eed4552c91b4bb73ed8bbd857337
+      internalID: 1538119483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 438
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc9f7004f64c6a44aa161ea1b62a5be
+      internalID: -184577180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d3ef128a738a84f899a71d7f9c12ff
+      internalID: -166933122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 405
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a687fc997f4954896a82f302f384c2
+      internalID: 1192500493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 405
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacd4f79773873748b44070615944680
+      internalID: -872970748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_27
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 405
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eedd2890ece7d04cbdc2aedf8f1da75
+      internalID: 626257364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c69979a02916a49ba354dd0c5a0877
+      internalID: 225662244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 372
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4a5be41f3139747a5be4a2461a9706
+      internalID: -119376833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 372
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addd2585ef130a843b0a59cb52208756
+      internalID: 1752428454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_31
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 372
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31f9a81d5c8bbc4c8c0f20b959a239a
+      internalID: 123917134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265886c23c91c6c40b1725b9b23e8df2
+      internalID: -2141852294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 339
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1311f4907b85a443bc13e04efd761e8
+      internalID: -169698293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 339
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491312db4c5f752419b3946fd0a8c2d0
+      internalID: 1397161744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_35
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 339
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b039e0c05eba04ca3e9232d1aa4c6c
+      internalID: 1387334392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3ec124da710a64db8531c21ea84a11
+      internalID: 138156743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 306
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831f4c91d68b5f94b94d98c2b07dbac8
+      internalID: -515641559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 306
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f869ac13393b8cf4dbfac702671370d1
+      internalID: 1960323647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 306
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42500a5f53bf362479325ebc24a7ee3c
+      internalID: 1848321904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17da079d4f761b478d6d5743f35ae69
+      internalID: 840006481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 273
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d482860712bd9d45b5772b637baeae5
+      internalID: 1709046387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 273
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354e6122296459d4ca2e2da63015171a
+      internalID: -1378739222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_43
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 273
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa60859c4c425fa4c84584443ba8eb2b
+      internalID: 51786889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da95db656c40494d875779899dd4364
+      internalID: 394451027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c751ebcaafbcd499a57a1192bf7751
+      internalID: 249358143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 240
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fac5f05b534d843a5905b5271119da
+      internalID: -1159528675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_47
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 240
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3942f4870175d44872a4bb11e55202
+      internalID: -1132708554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc6e8389473d17408150790cb3c378a
+      internalID: 2087120364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 207
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba6a7185a95f714b8c6a631c94d8b80
+      internalID: -1986342895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 207
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e866cadf4a4c6db49be4884f459665e9
+      internalID: -960099229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_51
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 207
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0cbbb3e69ecec43b09cc294d3ad0a5
+      internalID: -1516307706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5562d0e13192a438e59fde206fb879
+      internalID: 1507250471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 174
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333d3f162f91f16468df91d9683091dc
+      internalID: -1332604291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 174
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faf4c1594a708e44b1f06e9b441b9bd
+      internalID: -1043436479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_55
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 174
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d10282929d5dc4b80bfb9f77b9260a
+      internalID: 705987017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082bbebf78d546b409b0f4a4186c00bf
+      internalID: -1347482930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 141
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b96bd2620ed16b408a6f631bd826348
+      internalID: -1636063155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_58
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 141
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b02667b9c5c4c64f81cc75dfd988590
+      internalID: -122886450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 141
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a7af427bdfe1d44bb5432d7dbce7b6
+      internalID: 1925080095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0857c76e5a7738249b34a428d2723770
+      internalID: -700553259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_61
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 108
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df32052c8f400954b9b2bc900db9b1ab
+      internalID: -1133330066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_62
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 108
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6090db35f256c8040a314bf43f9eb36a
+      internalID: -1654128102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_63
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 108
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca58c0b1f33b634a93b6a5ab606d604
+      internalID: -913160868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00217b217a3d3e4da9ed6f00c20194d
+      internalID: -12198124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_65
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 75
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404182869e8452e47af4403091f5c321
+      internalID: -974061921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 75
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4860e784464e48c48b8e25379ac1c5d4
+      internalID: 706667169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_67
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 75
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef38b9db4326f44081736f7014e14a1
+      internalID: -1772934165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d02f863a592034f83be2cf196d8bbd
+      internalID: -1370433142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 42
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600d55f61f1258041b1fe9f4a76f2d61
+      internalID: 230224096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_70
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 42
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b15405626f55a46a8982f8bc4b0b50
+      internalID: 2003576740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_71
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 42
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c0fb3f4a30471499f5acb376227fb1
+      internalID: 227643790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55469c32f084dc9439387e42176a8e50
+      internalID: -336301024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 9
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96768d6cada0369499f89e391c271429
+      internalID: 167741907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_74
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 9
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6807b21ce1dc0ab41a79708e34995761
+      internalID: 1918727102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_75
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 9
+        width: 300
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66b7928378e39347ba8c4569fd22aad
+      internalID: -381513315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_0: -1908071453
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_1: 1531362138
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_10: -615862944
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_11: -744788833
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_12: -464942998
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_13: 378845462
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_14: 555089874
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_15: -736718768
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_16: -771101390
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_17: -1862451786
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_18: 1103408220
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_19: -515028408
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_2: -1435396696
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_20: 1487522155
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_21: -448213934
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_22: 1538119483
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_23: -184577180
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_24: -166933122
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_25: 1192500493
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_26: -872970748
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_27: 626257364
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_28: 225662244
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_29: -119376833
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_3: -1813833166
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_30: 1752428454
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_31: 123917134
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_32: -2141852294
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_33: -169698293
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_34: 1397161744
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_35: 1387334392
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_36: 138156743
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_37: -515641559
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_38: 1960323647
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_39: 1848321904
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_4: -766440645
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_40: 840006481
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_41: 1709046387
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_42: -1378739222
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_43: 51786889
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_44: 394451027
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_45: 249358143
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_46: -1159528675
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_47: -1132708554
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_48: 2087120364
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_49: -1986342895
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_5: -697055572
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_50: -960099229
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_51: -1516307706
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_52: 1507250471
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_53: -1332604291
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_54: -1043436479
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_55: 705987017
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_56: -1347482930
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_57: -1636063155
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_58: -122886450
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_59: 1925080095
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_6: 675968375
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_60: -700553259
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_61: -1133330066
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_62: -1654128102
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_63: -913160868
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_64: -12198124
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_65: -974061921
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_66: 706667169
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_67: -1772934165
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_68: -1370433142
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_69: 230224096
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_7: 1209881376
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_70: 2003576740
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_71: 227643790
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_72: -336301024
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_73: 167741907
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_74: 1918727102
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_75: -381513315
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_8: 1625896392
+      pixel-art-desert-game-scene-with-palm-tree-pyramids-cactuses-tree-8bit-background_360488-347_9: -2023233033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
