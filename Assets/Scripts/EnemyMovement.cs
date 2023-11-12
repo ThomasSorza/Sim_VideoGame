@@ -18,17 +18,11 @@ public class EnemyMovement : MonoBehaviour
 
     void Start()
     {
-        Debug.Log("EnemyMovement.cs");
         uniformDistributionScript = GetComponent<UniformDistributionMethod>();
         if (uniformDistributionScript != null)
         {
             // Llama a la función FillRiValues() del script UniformDistributionMethod.
-            uniformDistributionScript.FillRiValues();
             riValues = uniformDistributionScript.GetRiValues();
-        }
-        foreach (float value in riValues)
-        {
-            Debug.Log("Valor de ri: " + value);
         }
     }
 
