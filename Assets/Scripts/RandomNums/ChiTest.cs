@@ -52,14 +52,24 @@ public class ChiTest : MonoBehaviour
     double ObtainMinNiValue()
     {
         // Get the minimum value in the niValues list.
-        niMin = Convert.ToInt32(niValues.Min());
+        try{
+            niMin = Convert.ToInt32(niValues.Min());
+        }
+        catch (Exception e){
+            Debug.Log(e);
+        }
         return niMin;
     }
 
     double ObtainMaxNiValue()
     {
         // Get the maximum value in the niValues list.
-        niMax = Convert.ToInt32(niValues.Max());
+        try{
+            niMax = Convert.ToInt32(niValues.Max());
+        }
+        catch (Exception e){
+            Debug.Log(e);
+        }
         return niMax;
     }
 

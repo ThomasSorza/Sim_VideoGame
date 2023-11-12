@@ -25,10 +25,6 @@ public class UniformDistributionMethod : MonoBehaviour
     {
         FillRiValues();
         FillNiValues();
-        for (int i = 0; i < riValues.Count; i++)
-        {
-            Debug.Log("Ri: " + riValues[i] + " Ni: " + niValues[i]);
-        }
         // Encuentra el script AverageTest en el componente
         averageTestScript = GetComponent<AverageTest>();
 
@@ -60,12 +56,12 @@ public class UniformDistributionMethod : MonoBehaviour
 
             if (testPassed)
             {
-                Debug.Log("La prueba de promedio ha sido superada.");
+                //Debug.Log("La prueba de promedio ha sido superada.");
                 passed +=1;
             }
             else
             {
-                Debug.Log("La prueba de promedio no ha sido superada.");
+                //Debug.Log("La prueba de promedio no ha sido superada.");
             }
         }
 
@@ -89,12 +85,12 @@ public class UniformDistributionMethod : MonoBehaviour
 
             if (testPassed)
             {
-                Debug.Log("La prueba de varianza ha sido superada.");
+                //Debug.Log("La prueba de varianza ha sido superada.");
                 passed +=1;
             }
             else
             {
-                Debug.Log("La prueba de varianza no ha sido superada.");
+                //Debug.Log("La prueba de varianza no ha sido superada.");
             }
             
         }
@@ -118,12 +114,12 @@ public class UniformDistributionMethod : MonoBehaviour
 
             if (testPassed)
             {
-                Debug.Log("La prueba KS ha sido superada.");
+                //Debug.Log("La prueba KS ha sido superada.");
                 passed +=1;
             }
             else
             {
-                Debug.Log("La prueba KS no ha sido superada.");
+                //Debug.Log("La prueba KS no ha sido superada.");
             }
         }
 
@@ -138,12 +134,12 @@ public class UniformDistributionMethod : MonoBehaviour
             bool isPassed = pokerTest.CheckPoker();
             if (isPassed)
             {
-                Debug.Log("La prueba poker ha sido superada.");
+                //Debug.Log("La prueba poker ha sido superada.");
                 passed +=1;
             }
             else
             {
-                Debug.Log("La prueba poker no ha sido superada.");
+                //Debug.Log("La prueba poker no ha sido superada.");
                 
             }
         }
@@ -159,12 +155,12 @@ public class UniformDistributionMethod : MonoBehaviour
             bool isPassed = pokerTest.CheckPoker();
             if (isPassed)
             {
-                Debug.Log("La prueba chi ha sido superada.");
+                //Debug.Log("La prueba chi ha sido superada.");
                 passed +=1;
             }
             else
             {
-                Debug.Log("La prueba chi no ha sido superada.");
+                //Debug.Log("La prueba chi no ha sido superada.");
                 
             }
         }
