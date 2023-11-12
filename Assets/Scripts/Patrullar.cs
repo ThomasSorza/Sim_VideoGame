@@ -7,13 +7,25 @@ public class Patrullar : MonoBehaviour
     [SerializeField] private float velocidadMovimiento;
     [SerializeField] private Transform[] puntosMovimiento;
     [SerializeField] private float distanciaMinima;
+    
+    UniformDistributionMethod uniformDistributionMethod; 
+
+    private List<int> niValues = new List<int>(); //lista de enteros
 
     private int numeroAleatorio;
     private SpriteRenderer spriteRenderer; // Corregir el nombre de la variable
+    private int i = 0;
 
     private void Start() // Corregir el nombre del método
     {
-        numeroAleatorio = Random.Range(0, puntosMovimiento.Length);
+        uniformDistributionMethod = GetComponent<UniformDistributionMethod>();
+        float[] flotantes = uniformDistributionMethod.GetNiValuesArray();
+        for (int i = 0; i < flotantes.Length; i++)
+        {
+            niValues.Add((int)flotantes[i]);
+            Debug.Log(niValues[i]);
+        }
+        numeroAleatorio = niValues[i];
         spriteRenderer = GetComponent<SpriteRenderer>();
         Girar();
     }
@@ -24,7 +36,20 @@ public class Patrullar : MonoBehaviour
 
         if (Vector2.Distance(transform.position, puntosMovimiento[numeroAleatorio].position) < distanciaMinima)
         {
-            numeroAleatorio = Random.Range(0, puntosMovimiento.Length);
+            i+=1;
+            if (i >= niValues.Count)
+            {
+                i = 0;
+                niValues.Clear();
+                uniformDistributionMethod.FillNiValues();
+                float[] flotantes = uniformDistributionMethod.GetNiValuesArray();
+                for (int i = 0; i < flotantes.Length; i++)
+                {
+                    niValues.Add((int)flotantes[i]);
+                    Debug.Log(niValues[i]);
+                }
+            }
+            numeroAleatorio = niValues[i];
             Girar();
         }
     }

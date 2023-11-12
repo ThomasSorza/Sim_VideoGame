@@ -25,6 +25,7 @@ public class UniformDistributionMethod : MonoBehaviour
     {
         FillRiValues();
         FillNiValues();
+        
         // Encuentra el script AverageTest en el componente
         averageTestScript = GetComponent<AverageTest>();
 
@@ -199,7 +200,7 @@ public class UniformDistributionMethod : MonoBehaviour
         return max;
     }
 
-    void FillNiValues()
+    public void FillNiValues()
     {
         float min_value = ObtainMinValue();
         float max_value = ObtainMaxValue();
