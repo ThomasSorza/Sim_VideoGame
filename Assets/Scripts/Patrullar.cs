@@ -19,6 +19,7 @@ public class Patrullar : MonoBehaviour
     private void Start() // Corregir el nombre del método
     {
         uniformDistributionMethod = GetComponent<UniformDistributionMethod>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
         float[] flotantes = uniformDistributionMethod.GetNiValuesArray();
         for (int i = 0; i < flotantes.Length; i++)
         {
@@ -26,7 +27,6 @@ public class Patrullar : MonoBehaviour
             Debug.Log(niValues[i]);
         }
         numeroAleatorio = niValues[i];
-        spriteRenderer = GetComponent<SpriteRenderer>();
         Girar();
     }
 
