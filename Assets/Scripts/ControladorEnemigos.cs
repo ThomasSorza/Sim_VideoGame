@@ -7,6 +7,7 @@ public class ControladorEnemigos : MonoBehaviour
 
     [SerializeField] private Transform[] puntos;
     [SerializeField] private GameObject[] enemigos;
+    
     private GameObject enemigoActual;
     private int count;
     private void Start(){
@@ -27,8 +28,7 @@ public class ControladorEnemigos : MonoBehaviour
     }
 
       private void SpawnEnemigo()
-    {
-        // Instancia el enemigo actual en la posición actual
+    {        // Instancia el enemigo actual en la posición actual
         enemigoActual = Instantiate(enemigos[count], puntos[count].position, transform.rotation);
     }
 }
