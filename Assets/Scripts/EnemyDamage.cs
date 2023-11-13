@@ -7,9 +7,11 @@ public class EnemyDamage : MonoBehaviour
     public int damage =2;
     public PlayerHealth playerHealth;
     public PlayerMovement playerMovement;
+    public Animator anim;
 
     void Start()
     {
+        anim = GetComponent<Animator>();
         playerHealth = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerHealth>();
     }
 
@@ -26,6 +28,7 @@ public class EnemyDamage : MonoBehaviour
             {
                 playerMovement.isKnockedFromRight = false;
             }
+            anim.SetTrigger("Hit");
             playerHealth.TakeDamage(damage);
         }
     }

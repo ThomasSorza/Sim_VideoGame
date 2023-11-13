@@ -13,9 +13,17 @@ public class EnemyMovement : MonoBehaviour
     public bool isChasing;
     public float chaseDistance;
 
+    public UniformDistributionMethod uniformDistributionScript;
+    private List<float> riValues = new List<float>();
+
     void Start()
     {
-        
+        uniformDistributionScript = GetComponent<UniformDistributionMethod>();
+        if (uniformDistributionScript != null)
+        {
+            // Llama a la función FillRiValues() del script UniformDistributionMethod.
+            riValues = uniformDistributionScript.GetRiValues();
+        }
     }
 
     // Update is called once per frame
@@ -34,7 +42,7 @@ public class EnemyMovement : MonoBehaviour
                 transform.position += Vector3.right * speed * Time.deltaTime;
             }
         }
-        else
+        else // not chasing random walk
         {
             if(Vector2.Distance(transform.position, playerTransform.position) < chaseDistance)
             {
