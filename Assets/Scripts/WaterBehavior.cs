@@ -17,8 +17,8 @@ public class WaterBehavior : MonoBehaviour
 
     void Start()
     {
-        this.transform.localScale = escalaInicial;
-        RaiseWater();
+       // this.transform.localScale = escalaInicial;
+        //RaiseWater();
     }
     void Update()
     {

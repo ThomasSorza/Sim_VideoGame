@@ -25,6 +25,7 @@ public class UniformDistributionMethod : MonoBehaviour
     {
         FillRiValues();
         FillNiValues();
+        Debug.Log("ENTRA");
         
         // Encuentra el script AverageTest en el componente
         averageTestScript = GetComponent<AverageTest>();
