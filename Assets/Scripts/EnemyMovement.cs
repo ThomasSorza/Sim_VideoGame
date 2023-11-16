@@ -4,31 +4,50 @@ using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Variables de patrullaje
     public Transform[] patrolPoints;
     public float speed;
     public int patrolDestination;
 
+    // Variables de persecución
     public Transform playerTransform;
     public bool isChasing;
     public float chaseDistance;
 
+    // Referencia al script de distribución uniforme
     public UniformDistributionMethod uniformDistributionScript;
     private List<float> riValues = new List<float>();
 
     void Start()
     {
+        // Obtener referencia al script UniformDistributionMethod
         uniformDistributionScript = GetComponent<UniformDistributionMethod>();
+
+        // Si la referencia es válida, obtener los valores generados
         if (uniformDistributionScript != null)
         {
-            // Llama a la función FillRiValues() del script UniformDistributionMethod.
             riValues = uniformDistributionScript.GetRiValues();
         }
     }
 
-    // Update is called once per frame
     void Update()
     {
+        // Verificar la distancia entre el enemigo y el jugador
+        float distanceToPlayer = Vector2.Distance(transform.position, playerTransform.position);
+
+        // Si la distancia es menor o igual a la distancia de persecución
+        if (distanceToPlayer <= chaseDistance)
+        {
+            // Iniciar o continuar la persecución
+            isChasing = true;
+        }
+        else
+        {
+            // Detener la persecución si la distancia es mayor
+            isChasing = false;
+        }
+
+        // Lógica de persecución
         if (isChasing)
         {
             if (transform.position.x > playerTransform.position.x)
@@ -42,13 +61,5 @@ public class EnemyMovement : MonoBehaviour
                 transform.position += Vector3.right * speed * Time.deltaTime;
             }
         }
-        else // not chasing random walk
-        {
-            if(Vector2.Distance(transform.position, playerTransform.position) < chaseDistance)
-            {
-                isChasing = true;
-            }
-        }
-
     }
 }
