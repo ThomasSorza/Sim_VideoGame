@@ -14,9 +14,14 @@ public class EnemyMovement : MonoBehaviour
     public bool isChasing;
     public float chaseDistance;
 
+    private float velocidadOriginal;
+
     // Referencia al script de distribución uniforme
     public UniformDistributionMethod uniformDistributionScript;
     private List<float> riValues = new List<float>();
+
+    // Ralentización variables
+    private float factorDeRalentizacionActual = 1.0f; // Valor por defecto
 
     void Start()
     {
@@ -28,6 +33,8 @@ public class EnemyMovement : MonoBehaviour
         {
             riValues = uniformDistributionScript.GetRiValues();
         }
+
+        velocidadOriginal = speed;
     }
 
     void Update()
@@ -47,19 +54,34 @@ public class EnemyMovement : MonoBehaviour
             isChasing = false;
         }
 
-        // Lógica de persecución
+        // Lógica de persecución ralentizada
         if (isChasing)
         {
             if (transform.position.x > playerTransform.position.x)
             {
                 transform.localScale = new Vector3(0.6f, 0.6f, 1);
-                transform.position += Vector3.left * speed * Time.deltaTime;
+                transform.position += Vector3.left * speed * factorDeRalentizacionActual * Time.deltaTime;
             }
             if (transform.position.x < playerTransform.position.x)
             {
                 transform.localScale = new Vector3(-0.6f, 0.6f, 1);
-                transform.position += Vector3.right * speed * Time.deltaTime;
+                transform.position += Vector3.right * speed * factorDeRalentizacionActual * Time.deltaTime;
             }
         }
+    }
+
+    public void Ralentizar(float factor)
+    {
+        // Llama a esta función desde el script del agua
+        factorDeRalentizacionActual = factor;
+
+        // Aplica la ralentización a la velocidad
+        speed = velocidadOriginal * factorDeRalentizacionActual;
+    }
+
+    public void RestablecerVelocidad()
+    {
+        // Restablece la velocidad a su valor original
+        speed = velocidadOriginal;
     }
 }
