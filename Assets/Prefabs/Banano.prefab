@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 418275819391502361}
   m_Layer: 0
   m_Name: Banano
-  m_TagString: Banano
+  m_TagString: Collectable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

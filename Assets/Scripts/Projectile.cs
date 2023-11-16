@@ -60,6 +60,7 @@ public class Projectile : MonoBehaviour
             // Aplica el daño correspondiente (normal o crítico)
             if (isCritical)
             {
+                 
                 collision.gameObject.GetComponent<EnemyHealth>().TakeDamage(criticalDamage);
             }
             else

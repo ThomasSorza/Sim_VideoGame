@@ -9,7 +9,6 @@ public class PlayerMovement : MonoBehaviour
     private SpriteRenderer sprite;
     private Animator anim;
 
-
     [SerializeField] private LayerMask jumpableGround;
 
     private float dirX = 0f;
@@ -23,26 +22,29 @@ public class PlayerMovement : MonoBehaviour
     public bool isKnockedFromRight;
     public bool flippedLeft;
     public bool facingRight;
+    private float velocidadOriginal;
+
+    // Ralentización variables
+    private float factorDeRalentizacionActual = 1.0f; // Valor por defecto
 
     private enum MovementState { idle, running, jumping, falling, knockback }
 
-    // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         sprite = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
         collider = GetComponent<BoxCollider2D>();
+        velocidadOriginal = moveSpeed;
     }
 
-    // Update is called once per frame
-    private void Update()
+    void Update()
     {
         if (KBCounter <= 0)
         {
             dirX = Input.GetAxisRaw("Horizontal"); // moving left and right
 
-            rb.velocity = new Vector2(dirX * moveSpeed, rb.velocity.y);
+            rb.velocity = new Vector2(dirX * moveSpeed * factorDeRalentizacionActual, rb.velocity.y);
 
             if (Input.GetButtonDown("Jump") && IsGrounded()) // jumping
             {
@@ -69,51 +71,52 @@ public class PlayerMovement : MonoBehaviour
     }
 
     private void UpdateAnimationState()
-{
-    MovementState state;
+    {
+        MovementState state;
 
-    if (dirX > 0f) // moving right
-    {
-        facingRight = true;
-        Flip(true);
-        state = MovementState.running;
-        //sprite.flipX = false;
-    }
-    else if (dirX < 0f) // moving left
-    {
-        facingRight = false;
-        Flip(false);
-        state = MovementState.running;
-        //sprite.flipX = true;
-    }
-    else // not moving (idle)
-    {
-        state = MovementState.idle;
+        if (dirX > 0f) // moving right
+        {
+            facingRight = true;
+            Flip(true);
+            state = MovementState.running;
+        }
+        else if (dirX < 0f) // moving left
+        {
+            facingRight = false;
+            Flip(false);
+            state = MovementState.running;
+        }
+        else // not moving (idle)
+        {
+            state = MovementState.idle;
+        }
+
+        // We can jump whenever we are not falling or jumping
+        if (rb.velocity.y > 0.1f)
+        { // dealing with jumping and falling
+            state = MovementState.jumping;
+        }
+        else if (rb.velocity.y < -0.1f) // falling
+        {
+            state = MovementState.falling;
+        }
+
+        anim.SetInteger("state", (int)state);
     }
 
-    void Flip (bool facingRight){
-        if(flippedLeft && facingRight){
-            transform.Rotate(0,-180,0);
+    private void Flip(bool facingRight)
+    {
+        if (flippedLeft && facingRight)
+        {
+            transform.Rotate(0, -180, 0);
             flippedLeft = false;
         }
-        if(!flippedLeft && !facingRight)
+        if (!flippedLeft && !facingRight)
         {
-            transform.Rotate(0,-180,0);
+            transform.Rotate(0, -180, 0);
             flippedLeft = true;
         }
     }
-
-    // We can jump whenever we are not falling or jumping
-    if (rb.velocity.y > 0.1f)
-    { // dealing with jumping and falling
-        state = MovementState.jumping;
-    }
-    else if (rb.velocity.y < -0.1f) // falling
-    {
-        state = MovementState.falling;
-    }
-    anim.SetInteger("state", (int)state);
-}
 
     private bool IsGrounded() // Check if the player is on the ground to just jump once
     {
@@ -125,5 +128,18 @@ public class PlayerMovement : MonoBehaviour
     {
         KBCounter = KBTotalTime;
         isKnockedFromRight = direction.x < 0;
+    }
+
+    public void Ralentizar(float factor)
+    {
+        // Llama a esta función desde el script del agua
+        factorDeRalentizacionActual = factor;
+        moveSpeed = velocidadOriginal * factorDeRalentizacionActual;
+    }
+
+    public void RestablecerVelocidad()
+    {
+        // Restablece la velocidad a su valor original
+        moveSpeed = velocidadOriginal;
     }
 }

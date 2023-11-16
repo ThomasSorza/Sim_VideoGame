@@ -12,8 +12,10 @@ public class ProjectileLaunch : MonoBehaviour
     private float shootCounter;
 
     // Probabilidades de disparo normal y crítico
-    private float probNormal = 0.8f;
-    private float probCritico = 0.2f;
+    // Matriz de probabilidades [probNormal, probCritico]
+    private float[,] probabilidades = new float[1, 2] { { 0.8f, 0.2f } };
+    private float probNormal;
+    private float probCritico;
 
     // Tiempo de espera después de disparar normal y crítico
     public float cooldownNormal = 6f;
@@ -33,6 +35,8 @@ public class ProjectileLaunch : MonoBehaviour
         shootCounter = shootTime;
         cooldownCounterNormal = 0f;
         cooldownCounterCritico = 0f;
+        probNormal = probabilidades[0, 0];
+        probCritico = probabilidades[0, 1];
         anim = GetComponent<Animator>();
     }
 
