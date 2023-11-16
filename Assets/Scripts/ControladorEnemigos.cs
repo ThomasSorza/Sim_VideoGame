@@ -23,7 +23,7 @@ public class ControladorEnemigos : MonoBehaviour
 
     private void Update()
     {       
-            if (count < enemigos.Length && count < puntos.Length)
+            if (count < enemigos.Length)
             {
                  tiempoTranscurrido += Time.deltaTime;
                  if(tiempoTranscurrido >= tiempoEntreEnemigos)
@@ -38,7 +38,7 @@ public class ControladorEnemigos : MonoBehaviour
       private void SpawnEnemigo()
     {        // Instancia el enemigo actual en la posición actual
 
-        enemigoActual = Instantiate(enemigos[count], puntos[count].position, transform.rotation);
+        enemigoActual = Instantiate(enemigos[count], puntos[0].position, transform.rotation);
         count++;
 
     }
